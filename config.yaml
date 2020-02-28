@@ -30,8 +30,8 @@ diffexp:
   # contrasts for the deseq2 results method
   contrasts:
     treated-vs-untreated:
-      - treated
-      - untreated
+      - neuron
+      - glia
 
 params:
   star: ""
