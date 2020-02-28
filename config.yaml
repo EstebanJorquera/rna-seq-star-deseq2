@@ -17,9 +17,9 @@ trimming:
 
 ref:
   # the STAR index
-  index: "path/to/star/index"
+  index: "/projects/user2/rna-seq-star-deseq2/INDEX"
   # gtf file with transcripts
-  annotation: "path/to/annotation.gtf"
+  annotation: "/home/user2/RNA_seq_course2020/Gene_annotation/dm6.Ensembl.genes.gtf"
 
 pca:
   labels:
