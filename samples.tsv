@@ -1,4 +1,4 @@
-sample	condition
+sample  condition
 G1  glia
 G2  glia
 G3  glia
@@ -7,4 +7,4 @@ N1  neuron
 N2  neuron
 N3  neuron
 N4  neuron
-N5 neuron
+N5  neuron
