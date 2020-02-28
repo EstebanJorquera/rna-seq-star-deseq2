@@ -1,10 +1,10 @@
 sample	unit	fq1	fq2
 N1	rep1	/home/user2/RNA_seq_course2020/FASTQ/SRR7889581.fastq.gz	
-N2      rep1    /home/user2/RNA_seq_course2020/FASTQ/SRR7889582.fastq.gz         
-N3      rep1    /home/user2/RNA_seq_course2020/FASTQ/SRR7889583.fastq.gz         
-N4      rep1    /home/user2/RNA_seq_course2020/FASTQ/SRR7889584.fastq.gz         
-N5      rep1    /home/user2/RNA_seq_course2020/FASTQ/SRR7889585.fastq.gz	
-G1      rep1    /home/user2/RNA_seq_course2020/FASTQ/SRR7889597.fastq.gz	
-G2      rep1    /home/user2/RNA_seq_course2020/FASTQ/SRR7889598.fastq.gz	
-G3      rep1    /home/user2/RNA_seq_course2020/FASTQ/SRR7889599.fastq.gz	
-G4      rep1    /home/user2/RNA_seq_course2020/FASTQ/SRR7889600.fastq.gz	
+N2	rep1	/home/user2/RNA_seq_course2020/FASTQ/SRR7889582.fastq.gz         
+N3	rep1    /home/user2/RNA_seq_course2020/FASTQ/SRR7889583.fastq.gz         
+N4	rep1    /home/user2/RNA_seq_course2020/FASTQ/SRR7889584.fastq.gz         
+N5	rep1    /home/user2/RNA_seq_course2020/FASTQ/SRR7889585.fastq.gz	
+G1	rep1    /home/user2/RNA_seq_course2020/FASTQ/SRR7889597.fastq.gz	
+G2	rep1    /home/user2/RNA_seq_course2020/FASTQ/SRR7889598.fastq.gz	
+G3	rep1    /home/user2/RNA_seq_course2020/FASTQ/SRR7889599.fastq.gz	
+G4	rep1	/home/user2/RNA_seq_course2020/FASTQ/SRR7889600.fastq.gz	
